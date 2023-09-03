@@ -1,6 +1,4 @@
-
 @import url("https://fonts.googleapis.com/css2?family=Radio+Canada:wght@400;500;600;700&display=swap");
-
 body {
     background-image: url("https://cdn.pixabay.com/photo/2018/03/17/19/36/connection-3234929_1280.jpg");
     background-size: cover;
@@ -88,10 +86,11 @@ p{
   margin-left: auto;
   border-radius: 8px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: whitesmoke;
-  color:dodgerblue;
+  background-color: rgba(255, 255, 255, 0.816);
+  color:darkblue;
   font-size: 50px;
   font-weight: 500;
+  text-shadow: 2px;
   cursor:pointer;
 }
 
@@ -107,5 +106,3 @@ p{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: dodgerblue;
 }
-
-
